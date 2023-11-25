@@ -1,8 +1,7 @@
 # 👋Hi! I'm Shanmugapriya
 <br>Welcome to my Github profile! I'm a B.Tech Student currently pursuing Information Technology.I'm passionate towards learning new skills and technologies<br><br><br> I’m currently learning Front end Development <br>
-
 # 💫 About Me:
-<br>👩🏻‍🎓Student! <br> 🎓B.Tech Information Technology <br>
+<br>🔗👋Welcome to my Github profile! I'm a B.Tech Student currently pursuing Information Technology.I'm passionate towards learning new skills and technologies<br><br><br>🌱 I’m currently learning Front end Development <br>
 
 
 # 💻 Tech Stack:
